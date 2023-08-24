@@ -1,0 +1,11 @@
+C:\Users\soned\Videos\programas VS\MemoriaDinámica\MemoriaDinámica\obj\Debug\MemoriaDinámica.csproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas VS\MemoriaDinámica\MemoriaDinámica\obj\Debug\MemoriaDinámica.csproj.SuggestedBindingRedirects.cache
+C:\Users\soned\Videos\programas VS\MemoriaDinámica\MemoriaDinámica\obj\Debug\MemoriaDinámica.Form1.resources
+C:\Users\soned\Videos\programas VS\MemoriaDinámica\MemoriaDinámica\obj\Debug\MemoriaDinámica.Properties.Resources.resources
+C:\Users\soned\Videos\programas VS\MemoriaDinámica\MemoriaDinámica\obj\Debug\MemoriaDinámica.csproj.GenerateResource.cache
+C:\Users\soned\Videos\programas VS\MemoriaDinámica\MemoriaDinámica\obj\Debug\MemoriaDinámica.csproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas VS\MemoriaDinámica\MemoriaDinámica\bin\Debug\MemoriaDinámica.exe.config
+C:\Users\soned\Videos\programas VS\MemoriaDinámica\MemoriaDinámica\bin\Debug\MemoriaDinámica.exe
+C:\Users\soned\Videos\programas VS\MemoriaDinámica\MemoriaDinámica\bin\Debug\MemoriaDinámica.pdb
+C:\Users\soned\Videos\programas VS\MemoriaDinámica\MemoriaDinámica\obj\Debug\MemoriaDinámica.exe
+C:\Users\soned\Videos\programas VS\MemoriaDinámica\MemoriaDinámica\obj\Debug\MemoriaDinámica.pdb
